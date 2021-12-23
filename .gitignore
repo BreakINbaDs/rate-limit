@@ -1,0 +1,10 @@
+# dotenv environment variable files
+.env
+
+# node modules
+node_modules
+
+#logs
+npm-debug.log
+
+.DS_Store
